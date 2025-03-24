@@ -1,0 +1,16 @@
+{
+    "whitelisted_users": [
+        {
+            "discord_id": "1234567890",
+            "roblox_username": "RobloxUser1"
+        },
+        {
+            "discord_id": "0987654321",
+            "roblox_username": "RobloxUser2"
+        },
+        {
+            "discord_id": "1314751829929754624",
+            "roblox_username": "MRMDABEAST"
+        }
+    ]
+}
